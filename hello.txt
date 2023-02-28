@@ -1,1 +1,2 @@
 
+Tuliskanlah hal yang berbeda pada setiap isi teks hello.txt
